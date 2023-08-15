@@ -1,0 +1,29 @@
+body{
+    background: rgb(4,28,51);
+    background: radial-gradient(circle, rgba(28,115,186,1) 0%, rgba(4,28,51,1) 62%);
+    color: #fff;
+    text-shadow: 2px 2px #000000;
+    border-radius: 0!important;
+}
+nav{
+    background-image: linear-gradient(to top, #08131e , #0b1b2a);
+    color:#fff;
+    box-shadow: 3px 5px 4px #030f1a;
+}
+
+.container{
+    padding-top: 10em;
+}
+
+.image{
+    border-radius: 50%;
+    max-height: 9.375rem;
+}
+
+#quote{
+    font-family: 'Roboto', sans-serif;
+}
+
+.btn{
+    font-size: 16px;
+}
